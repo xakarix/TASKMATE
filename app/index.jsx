@@ -56,7 +56,7 @@ export default function App() {
           
           <CustomButton
             title="Rozpocznij!"
-            handlePress={() => router.push('/sign-in')}
+            handlePress={() => router.push('/sign-up')}
             containerStyles="w-5/6 "
             />
 

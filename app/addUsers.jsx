@@ -19,7 +19,7 @@ const AddUsers = () => {
     const { eventId } = useLocalSearchParams();
     
     useEffect(() => {
-        loadFriends(user.id, setGetFriends);
+        loadFriends(user?.id, setGetFriends);
     }, [user?.id]);
 
     const handlePress = async () => {
