@@ -1,5 +1,7 @@
 TASKMate is an app that helps you pursue your goals with the support of your trusted companions mates.
 
+illustrations: https://www.opendoodles.com
+
 Here are some screens from the app: 
 
 
